@@ -2,7 +2,7 @@
 
 #### By Robel Arega and Mike Ryu
 
----
+## ![Avant, A P2P Lending company](download.png)
 
 ## What is the background of your company? What do they do? Who are their competitors?
 
