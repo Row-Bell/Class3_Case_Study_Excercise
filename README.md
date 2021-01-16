@@ -1,4 +1,4 @@
-# Class3_Case_Study_Excercise
+# Avant: A Northwestern Case Study
 
 #### By Robel Arega and Mike Ryu
 
